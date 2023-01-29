@@ -16,8 +16,8 @@
 title: Jithendra's Log
 author: jithendray
 description: Data & Software Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jithendray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ".whie" # the subpath of your site, e.g. /blog
+url: "https://cursedcollection.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
